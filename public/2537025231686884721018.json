@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "878584978310",
+    "project_id": "pregnancy-baby-1",
+    "storage_bucket": "pregnancy-baby-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878584978310:android:0ff8a925f5f34df7a0ea07",
+        "android_client_info": {
+          "package_name": "com.mediatechnopro.pregnancybaby1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878584978310-fgp521nkcc0mmr4k2e571ch70a9q6crq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjWL8C2dJ5aY4bEQztaO2rlt3mB_TB3l0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878584978310-fgp521nkcc0mmr4k2e571ch70a9q6crq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
